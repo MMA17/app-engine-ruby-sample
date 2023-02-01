@@ -8,5 +8,5 @@ configure do
 end
 
 get '/' do
-  'hello, world'
+  'Congratulations! Your Ruby app is running on <b>BizflyCloud App Engine.</b>'
 end
